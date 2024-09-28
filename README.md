@@ -8,4 +8,5 @@ CodeTech It Solution
 
 **Overview of project ** 
 **Projects :-**
-• I am design the simple Calculator program which is the purpose of Adding ,Subtracting ,Multipling and dividing the numbers. Technical Skills :- • Programming Languages :- Good in Java. • Completed DATA STRUCTURE AND ALGORITHM with JAVA programming language from APNA COLLEGE.
+• I am design the Grade Detecting Program which is the purpose of Detect the grade from marks of the student or CGPA. 
+**Technical Skills :-** • Programming Languages :- Good in Java. • Completed DATA STRUCTURE AND ALGORITHM with JAVA programming language from APNA COLLEGE.
